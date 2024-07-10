@@ -27,11 +27,12 @@ Database Configuration:
 
 Endpoints
 List the RESTful endpoints available in your application:
-POST '/emp':Add a new employee
-PUT '/emp/{id}':update a employee
-get '/allEmp' : get all employees
-get '/emp/{id}' : get a single employee based on their employee id
-Delete '/emp/{id}' : Delete the employee based on their employee id.
+
+1.POST '/emp':Add a new employee
+2.PUT '/emp/{id}':update a employee
+3.get '/allEmp' : get all employees
+4.get '/emp/{id}' : get a single employee based on their employee id
+5.Delete '/emp/{id}' : Delete the employee based on their employee id.
 
 
   
